@@ -1,0 +1,362 @@
+"changeProcessId","name","changeMethodId","level","item","time","abilityId","move","count","typeId","genderId","additionalPkmnFormId","regionId","isRegionNot","value","isUnique","additionalInfo"
+"1","default","1",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"2","Shedinja","32",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","created when Nincada evolves into Ninjask and an extra Pokeball and party slot are available"
+"3","Recoil, female","20",NULL,NULL,NULL,NULL,NULL,"294",NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"4","Recoil, male","20",NULL,NULL,NULL,NULL,NULL,"294",NULL,"1",NULL,NULL,"0",NULL,"0",NULL
+"5","Secret Sword","27",NULL,NULL,NULL,NULL,"Secret Sword",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"6","Barb Barrage","15",NULL,NULL,NULL,NULL,"Barb Barrage",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"7","Psyshield Bash","14",NULL,NULL,NULL,NULL,"Psyshield Bash","20",NULL,NULL,NULL,NULL,"0",NULL,"0","Agile Style"
+"8","Berry Sweet, Rainbow Swirl","13",NULL,"Berry Sweet","7:00-7:59PM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >10 secs"
+"9","Berry Sweet, Vanilla Cream","13",NULL,"Berry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"10","Berry Sweet, Ruby Swirl","13",NULL,"Berry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"11","Berry Sweet, Ruby Cream","13",NULL,"Berry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"12","Berry Sweet, Caramel Swirl","13",NULL,"Berry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"13","Berry Sweet, Matcha Cream","13",NULL,"Berry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"14","Berry Sweet, Lemon Cream","13",NULL,"Berry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"15","Berry Sweet, Mint Cream","13",NULL,"Berry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"16","Berry Sweet, Salted Cream","13",NULL,"Berry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"17","Burn Drive","2",NULL,"Burn Drive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"18","Chill Drive","2",NULL,"Chill Drive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"19","Clover Sweet, Rainbow Swirl","13",NULL,"Clover Sweet","7:00-7:59PM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >10 secs"
+"20","Clover Sweet, Vanilla Cream","13",NULL,"Clover Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"21","Clover Sweet, Ruby Swirl","13",NULL,"Clover Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"22","Clover Sweet, Ruby Cream","13",NULL,"Clover Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"23","Clover Sweet, Caramel Swirl","13",NULL,"Clover Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"24","Clover Sweet, Matcha Cream","13",NULL,"Clover Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"25","Clover Sweet, Lemon Cream","13",NULL,"Clover Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"26","Clover Sweet, Mint Cream","13",NULL,"Clover Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"27","Clover Sweet, Salted Cream","13",NULL,"Clover Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"28","Douse Drive","2",NULL,"Douse Drive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"29","Flower Sweet, Rainbow Swirl","13",NULL,"Flower Sweet","7:00-7:59PM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >10 secs"
+"30","Flower Sweet, Vanilla Cream","13",NULL,"Flower Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"31","Flower Sweet, Ruby Swirl","13",NULL,"Flower Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"32","Flower Sweet, Ruby Cream","13",NULL,"Flower Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"33","Flower Sweet, Caramel Swirl","13",NULL,"Flower Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"34","Flower Sweet, Matcha Cream","13",NULL,"Flower Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"35","Flower Sweet, Lemon Cream","13",NULL,"Flower Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"36","Flower Sweet, Mint Cream","13",NULL,"Flower Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"37","Flower Sweet, Salted Cream","13",NULL,"Flower Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"38","Griseous Orb","2",NULL,"Griseous Orb",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"39","Love Sweet, Rainbow Swirl","13",NULL,"Love Sweet","7:00-7:59PM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >10 secs"
+"40","Love Sweet, Vanilla Cream","13",NULL,"Love Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"41","Love Sweet, Ruby Swirl","13",NULL,"Love Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"42","Love Sweet, Ruby Cream","13",NULL,"Love Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"43","Love Sweet, Caramel Swirl","13",NULL,"Love Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"44","Love Sweet, Matcha Cream","13",NULL,"Love Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"45","Love Sweet, Lemon Cream","13",NULL,"Love Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"46","Love Sweet, Mint Cream","13",NULL,"Love Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"47","Love Sweet, Salted Cream","13",NULL,"Love Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"48","Ribbon Sweet, Rainbow Swirl","13",NULL,"Ribbon Sweet","7:00-7:59PM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >10 secs"
+"49","Ribbon Sweet, Vanilla Cream","13",NULL,"Ribbon Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"50","Ribbon Sweet, Ruby Swirl","13",NULL,"Ribbon Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"51","Ribbon Sweet, Ruby Cream","13",NULL,"Ribbon Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"52","Ribbon Sweet, Caramel Swirl","13",NULL,"Ribbon Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"53","Ribbon Sweet, Matcha Cream","13",NULL,"Ribbon Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"54","Ribbon Sweet, Lemon Cream","13",NULL,"Ribbon Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"55","Ribbon Sweet, Mint Cream","13",NULL,"Ribbon Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"56","Ribbon Sweet, Salted Cream","13",NULL,"Ribbon Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"57","Shock Drive","2",NULL,"Shock Drive",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"58","Star Sweet, Rainbow Swirl","13",NULL,"Star Sweet","7:00-7:59PM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >10 secs"
+"59","Star Sweet, Vanilla Cream","13",NULL,"Star Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"60","Star Sweet, Ruby Swirl","13",NULL,"Star Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"61","Star Sweet, Ruby Cream","13",NULL,"Star Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"62","Star Sweet, Caramel Swirl","13",NULL,"Star Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"63","Star Sweet, Matcha Cream","13",NULL,"Star Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"64","Star Sweet, Lemon Cream","13",NULL,"Star Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"65","Star Sweet, Mint Cream","13",NULL,"Star Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"66","Star Sweet, Salted Cream","13",NULL,"Star Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"67","Strawberry Sweet, Rainbow Swirl","13",NULL,"Strawberry Sweet","7:00-7:59PM",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >10 secs"
+"68","Strawberry Sweet, Vanilla Cream","13",NULL,"Strawberry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"69","Strawberry Sweet, Ruby Swirl","13",NULL,"Strawberry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"70","Strawberry Sweet, Ruby Cream","13",NULL,"Strawberry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"71","Strawberry Sweet, Caramel Swirl","13",NULL,"Strawberry Sweet","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"72","Strawberry Sweet, Matcha Cream","13",NULL,"Strawberry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for <5 secs"
+"73","Strawberry Sweet, Lemon Cream","13",NULL,"Strawberry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin clockwise for >5 secs"
+"74","Strawberry Sweet, Mint Cream","13",NULL,"Strawberry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for <5 secs"
+"75","Strawberry Sweet, Salted Cream","13",NULL,"Strawberry Sweet","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","Spin counterclockwise for >5 secs"
+"76","3 Crits","18",NULL,NULL,NULL,NULL,NULL,"3",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"77","cave/sandy area","23",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","cave or sandy area","0",NULL
+"78","forest/grassy area","23",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","forest or grassy area","0",NULL
+"79","urban area","23",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","urban area","0",NULL
+"80","During Battle","3",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"81","Relic Song","24",NULL,NULL,NULL,NULL,"Relic Song",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"82","Rusted Shield","33",NULL,"Rusted Shield",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"83","Rusted Sword","33",NULL,"Rusted Sword",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"84","Flower Gift","4",NULL,NULL,NULL,"122",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"85","Stance Change","4",NULL,NULL,NULL,"176",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","damaging move"
+"87","Disguise","4",NULL,NULL,NULL,"209",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","damaging attack"
+"88","Battle Bond","4",NULL,NULL,NULL,"210",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","defeated opponent in same battle"
+"89","Gulp Missile","4",NULL,NULL,NULL,"241",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","damaging attack"
+"90","Ice Face","4",NULL,NULL,NULL,"248",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"92","Hunger Switch","4",NULL,NULL,NULL,"258",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"93","Forecast","4",NULL,NULL,NULL,"59",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"96","Schooling","4",NULL,NULL,NULL,"208",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"97","Zen Mode","4",NULL,NULL,NULL,"161",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"99","Power Construct","4",NULL,NULL,NULL,"211",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"103","Shields Down","4",NULL,NULL,NULL,"197",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"106","RKS System","4",NULL,NULL,NULL,"225",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"107","Multitype","4",NULL,NULL,NULL,"121",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"158","Dynamax","5",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"159","Dragon Ascent","22",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"160","Abomasite","6",NULL,"Abomasite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"161","Absolite","6",NULL,"Absolite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"162","Aerodactylite","6",NULL,"Aerodactylite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"163","Aggronite","6",NULL,"Aggronite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"164","Alakazite","6",NULL,"Alakazite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"165","Altarianite","6",NULL,"Altarianite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"166","Ampharosite","6",NULL,"Ampharosite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"167","Audinite","6",NULL,"Audinite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"168","Banettite","6",NULL,"Banettite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"169","Beedrillite","6",NULL,"Beedrillite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"170","Blastoisinite","6",NULL,"Blastoisinite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"171","Blazikenite","6",NULL,"Blazikenite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"172","Cameruptite","6",NULL,"Cameruptite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"173","Charizardite X","6",NULL,"Charizardite X",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"174","Charizardite Y","6",NULL,"Charizardite Y",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"175","Diancite","6",NULL,"Diancite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"176","Galladite","6",NULL,"Galladite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"177","Garchompite","6",NULL,"Garchompite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"178","Gardevoirite","6",NULL,"Gardevoirite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"179","Gengarite","6",NULL,"Gengarite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"180","Glalitite","6",NULL,"Glalitite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"181","Gyaradosite","6",NULL,"Gyaradosite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"182","Heracronite","6",NULL,"Heracronite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"183","Houndoominite","6",NULL,"Houndoominite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"184","Kangaskhanite","6",NULL,"Kangaskhanite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"185","Latiasite","6",NULL,"Latiasite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"186","Latiosite","6",NULL,"Latiosite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"187","Lopunnite","6",NULL,"Lopunnite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"188","Lucarionite","6",NULL,"Lucarionite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"189","Manectite","6",NULL,"Manectite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"190","Mawilite","6",NULL,"Mawilite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"191","Medichamite","6",NULL,"Medichamite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"192","Metagrossite","6",NULL,"Metagrossite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"193","Mewtwonite X","6",NULL,"Mewtwonite X",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"194","Mewtwonite Y","6",NULL,"Mewtwonite Y",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"195","Pidgeotite","6",NULL,"Pidgeotite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"196","Pinsirite","6",NULL,"Pinsirite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"197","Sablenite","6",NULL,"Sablenite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"198","Salamencite","6",NULL,"Salamencite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"199","Sceptilite","6",NULL,"Sceptilite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"200","Scizorite","6",NULL,"Scizorite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"201","Sharpedonite","6",NULL,"Sharpedonite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"202","Slowbronite","6",NULL,"Slowbronite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"203","Steelixite","6",NULL,"Steelixite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"204","Swampertite","6",NULL,"Swampertite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"205","Tyranitarite","6",NULL,"Tyranitarite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"206","Venusaurite","6",NULL,"Venusaurite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"207","Ultra Burst","7",NULL,"Ultranecrozium Z",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"208","Meltan Candy","8",NULL,"Meltan Candy",NULL,NULL,NULL,"400",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"209","Adamant Crystal","8",NULL,"Adamant Crystal",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"210","Black Augurite","8",NULL,"Black Augurite",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"211","Chipped Pot","8",NULL,"Chipped Pot",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"212","Cracked Pot","8",NULL,"Cracked Pot",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"213","Dawn Stone, female","8",NULL,"Dawn Stone",NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"214","Dawn Stone, male","8",NULL,"Dawn Stone",NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,"0",NULL,"0",NULL
+"215","DNA Splicers, undo","8",NULL,"DNA Splicers",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"216","DNA Splicers, white","29",NULL,"DNA Splicers",NULL,NULL,NULL,NULL,NULL,NULL,"835",NULL,"0",NULL,"0",NULL
+"217","DNA Splicers, black","29",NULL,"DNA Splicers",NULL,NULL,NULL,NULL,NULL,NULL,"836",NULL,"0",NULL,"0",NULL
+"218","Dusk Stone","8",NULL,"Dusk Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"219","Fire Stone","8",NULL,"Fire Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"220","Galarica Cuff","8",NULL,"Galarica Cuff",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"221","Galarica Wreath","8",NULL,"Galarica Wreath",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"222","Gracidea","8",NULL,"Gracidea","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"1","not Frozen"
+"223","Ice Stone","8",NULL,"Ice Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"224","Leaf Stone","8",NULL,"Leaf Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"225","Leaf Stone, Alola","8",NULL,"Leaf Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"7","0",NULL,"0",NULL
+"226","Leaf Stone, not Alola","8",NULL,"Leaf Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"7","1",NULL,"0",NULL
+"227","Lustrous Globe","8",NULL,"Lustrous Globe",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"228","Moon Stone","8",NULL,"Moon Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"229","N-Lunarizer, undo","8",NULL,"N-Lunarizer",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"230","N-Lunarizer","29",NULL,"N-Lunarizer",NULL,NULL,NULL,NULL,NULL,NULL,"1082",NULL,"0",NULL,"0",NULL
+"231","N-Solarizer, undo","8",NULL,"N-Solarizer",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"232","N-Solarizer","29",NULL,"N-Solarizer",NULL,NULL,NULL,NULL,NULL,NULL,"1081",NULL,"0",NULL,"0",NULL
+"233","Peat Block","8",NULL,"Peat Block","full moon",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"234","Pink Nectar","8",NULL,"Pink Nectar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"235","Prison Bottle","8",NULL,"Prison Bottle",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"236","Purple Nectar","8",NULL,"Purple Nectar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"237","Razor Claw, day","8",NULL,"Razor Claw","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"238","Red Nectar","8",NULL,"Red Nectar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"239","Reins of Unity, undo","8",NULL,"Reins of Unity",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"240","Reins of Unity, ice","29",NULL,"Reins of Unity",NULL,NULL,NULL,NULL,NULL,NULL,"1232",NULL,"0",NULL,"0",NULL
+"241","Reins of Unity, shadow","29",NULL,"Reins of Unity",NULL,NULL,NULL,NULL,NULL,NULL,"1233",NULL,"0",NULL,"0",NULL
+"242","Reveal Glass","8",NULL,"Reveal Glass",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"243","Rotom Catalog","8",NULL,"Rotom Catalog",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"244","Shiny Stone","8",NULL,"Shiny Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"245","Sun Stone","8",NULL,"Sun Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"246","Sun Stone, Hisui","8",NULL,"Sun Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","0",NULL,"0",NULL
+"247","Sun Stone, not Hisui","8",NULL,"Sun Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","1",NULL,"0",NULL
+"248","Sweet Apple","8",NULL,"Sweet Apple",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"249","Tart Apple","8",NULL,"Tart Apple",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"250","Thunder Stone","8",NULL,"Thunder Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"251","Thunder Stone, Alola","8",NULL,"Thunder Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"7","0",NULL,"0",NULL
+"252","Thunder Stone, not Alola","8",NULL,"Thunder Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"7","1",NULL,"0",NULL
+"253","Water Stone","8",NULL,"Water Stone",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"254","Yellow Nectar","8",NULL,"Yellow Nectar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"255","Zygarde Cube","8",NULL,"Zygarde Cube",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"257","Remoraid in party","28",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"326",NULL,"0",NULL,"0",NULL
+"258","Ancient Power","15",NULL,NULL,NULL,NULL,"Ancient Power",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"259","Double Hit","15",NULL,NULL,NULL,NULL,"Double Hit",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"260","Dragon Pulse","15",NULL,NULL,NULL,NULL,"Dragon Pulse",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"261","Mimic","15",NULL,NULL,NULL,NULL,"Mimic",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"262","Mimic, Galar","15",NULL,NULL,NULL,NULL,"Mimic",NULL,NULL,NULL,NULL,"8","0",NULL,"0",NULL
+"263","Mimic, not Galar","15",NULL,NULL,NULL,NULL,"Mimic",NULL,NULL,NULL,NULL,"8","1",NULL,"0",NULL
+"264","Rollout","15",NULL,NULL,NULL,NULL,"Rollout",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"265","Stomp","15",NULL,NULL,NULL,NULL,"Stomp",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"266","Taunt","15",NULL,NULL,NULL,NULL,"Taunt",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"267","beauty","21",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"268","friendship","25",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"269","friendship, know Fairy move","26",NULL,NULL,NULL,NULL,NULL,NULL,"18",NULL,NULL,NULL,"0",NULL,"0",NULL
+"270","friendship, day","25",NULL,NULL,"day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"271","friendship, night","25",NULL,NULL,"night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"272","Oval Stone","9",NULL,"Oval Stone","day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"273","Razor Claw, night","9",NULL,"Razor Claw","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"274","Razor Fang","9",NULL,"Razor Fang","night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"275","level 10","9","10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"276","level 12","9","12",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"277","level 12, real world","31","12",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"278","level 14","9","14",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"279","level 15","9","15",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"280","level 16","9","16",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"281","level 17","9","17",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"282","level 18","9","18",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"283","level 19","9","19",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"284","level 20","9","20",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"285","level 20, female","9","20",NULL,NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"286","level 20, male","9","20",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,"0",NULL,"0",NULL
+"287","level 20, day","9","20",NULL,"day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"288","level 20, night","9","20",NULL,"night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"289","level 20, def>att","39","20",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"290","level 20, att=def","37","20",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"291","level 20, att>def","38","20",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"292","level 21","9","21",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"293","level 21, female","9","21",NULL,NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"294","level 22","9","22",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"295","level 23","9","23",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"296","level 24","9","24",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"297","level 25","9","25",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"298","level 25, female","9","25",NULL,NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"299","level 25, male","9","25",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,"0",NULL,"0",NULL
+"300","evening","9","25",NULL,"evening",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"301","level 25, day","9","25",NULL,"day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"302","level 25, night","9","25",NULL,"night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"303","level 26","9","26",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"304","level 27","9","27",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"305","level 28","9","28",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"306","level 28, not Alola","9","28",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"7","1",NULL,"0",NULL
+"307","level 28, night","9","28",NULL,"night",NULL,NULL,NULL,NULL,NULL,NULL,"7","0",NULL,"0",NULL
+"308","level 29","9","29",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"309","level 30","9","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"310","Upside down","9","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"1","turn system upside down"
+"311","level 30, amped nature","34","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"315","level 30, low key nature","35","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"336","level 31","9","31",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"337","level 32","9","32",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"338","level 32, female","9","32",NULL,NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"339","level 32, male","9","32",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,"0",NULL,"0",NULL
+"340","level 32, Dark-type in party","28","32",NULL,NULL,NULL,NULL,NULL,"17",NULL,NULL,NULL,"0",NULL,"0",NULL
+"341","level 33","9","33",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"342","level 33, female","9","33",NULL,NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"343","level 34","9","34",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"344","level 34, not Hisui","9","34",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","1",NULL,"0",NULL
+"345","level 34, day","9","34",NULL,"day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"346","level 35","9","35",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"347","level 35, Galar","9","35",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"8","0",NULL,"0",NULL
+"348","level 35, not Galar","9","35",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"8","1",NULL,"0",NULL
+"349","level 35, female","9","35",NULL,NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"350","level 35, male","9","35",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,"0",NULL,"0",NULL
+"351","level 36","9","36",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"352","level 36, Hisui","9","36",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","0",NULL,"0",NULL
+"353","level 36, not Hisui","9","36",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","1",NULL,"0",NULL
+"354","level 37","9","37",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"355","level 37, Hisui","9","37",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","0",NULL,"0",NULL
+"356","level 37, not Hisui","9","37",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","1",NULL,"0",NULL
+"357","level 38","9","38",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"358","level 39","9","39",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"359","level 39, day","9","39",NULL,"day",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"360","level 39, night","9","39",NULL,"night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"361","level 40","9","40",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"362","level 40, Hisui","9","40",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","0",NULL,"0",NULL
+"363","level 40, not Hisui","9","40",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","1",NULL,"0",NULL
+"364","level 41","9","41",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"365","level 42","9","42",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"366","level 43","9","43",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"367","level 44","9","44",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"368","level 45","9","45",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"369","level 47","9","47",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"370","level 48","9","48",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"371","level 49","9","49",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"372","level 50","9","50",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"374","level 50, rain or fog","36","50",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","rain or fog","0","weather in overworld, not move or ability"
+"375","level 52","9","52",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"377","Level 53, Shield","9","53",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","shield","0",NULL
+"379","Level 53, Sword","9","53",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","sword","0",NULL
+"382","level 54","9","54",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"383","level 54, Hisui","9","54",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","0",NULL,"0",NULL
+"384","level 54, not Hisui","9","54",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"9","1",NULL,"0",NULL
+"385","level 55","9","55",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"386","level 59","9","59",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"387","level 60","9","60",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"388","level 64","9","64",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"389","level 7","9","7",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"390","level 7, RNG","16","7",NULL,NULL,NULL,NULL,"50",NULL,NULL,NULL,NULL,"0",NULL,"0",
+"391","level 9","9","9",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"392","Scroll of Darkness","8",NULL,"Scroll of Darkness",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",
+"393","Scroll of Waters","8",NULL,"Scroll of Waters",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"394","Purify","10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"1","Purify Chamber: All nine sets at max tempo"
+"395","NPC Groomer","10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"1","speak to an NPC Groomer"
+"396","NPC Contest","10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"1","talk to a specific NPC in the Contest Hall"
+"397","Meteorite","10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"1","use the Meteorite"
+"398","Distortion World","10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","distortion world","0",NULL
+"399","Galarian Yamask","10",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","dusty bowl","1","walk under stone bridge after Yamask takes >= 49 HP in damage in one attack without fainting"
+"400","3 days","10",NULL,NULL,"3 days",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"401","5 days","10",NULL,NULL,"5 days",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"402","autumn","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","West Paldea","0",NULL
+"403","spring","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","South Paldea","0",NULL
+"404","summer","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","East Paldea","0",NULL
+"405","winter","30",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0","North Paldea","0",NULL
+"406","Trade","11",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"407","Trade with Karrablast","19",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"775",NULL,"0",NULL,"0",NULL
+"408","Trade with Shelmet","19",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"805",NULL,"0",NULL,"0",NULL
+"409","Deep Sea Scale","11",NULL,"Deep Sea Scale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"410","Deep Sea Tooth","11",NULL,"Deep Sea Tooth",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"411","Dragon Scale","11",NULL,"Dragon Scale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"412","Dubious Disc","11",NULL,"Dubious Disc",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"413","Electirizer","11",NULL,"Electirizer",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"414","King's Rock","11",NULL,"King's Rock",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"415","Magmarizer","11",NULL,"Magmarizer",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"416","Metal Coat","11",NULL,"Metal Coat",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"417","Prism Scale","11",NULL,"Prism Scale",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"418","Protector","11",NULL,"Protector",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"419","Reaper Cloth","11",NULL,"Reaper Cloth",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"420","Sachet","11",NULL,"Sachet",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"421","Upgrade","11",NULL,"Upgrade",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"422","Whipped Dream","11",NULL,"Whipped Dream",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"423","Blue Orb","12",NULL,"Blue Orb",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"424","Red Orb","12",NULL,"Red Orb",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"425","Zero to Hero","4",NULL,NULL,NULL,"278",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0","When Pokemon switches out in battle"
+"426","Rage Fist","14",NULL,NULL,NULL,NULL,"Rage Fist","20",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"427","Twin Beam","15",NULL,NULL,NULL,NULL,"Twin Beam",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"428","Hyper Drill, RNG:99","17",NULL,NULL,NULL,NULL,"Hyper Drill","99",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"429","Hyper Drill, RNG:1","17",NULL,NULL,NULL,NULL,"Hyper Drill","1",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"430","Defeat Bisharp with Leader's Crest","40",NULL,"Leader's Crest",NULL,NULL,NULL,"3",NULL,NULL,"815",NULL,"0",NULL,"0",NULL
+"431","level 18, male","9","18",NULL,NULL,NULL,NULL,NULL,NULL,"1",NULL,NULL,"0",NULL,"0",NULL
+"432","level 18, female","9","18",NULL,NULL,NULL,NULL,NULL,NULL,"2",NULL,NULL,"0",NULL,"0",NULL
+"433","walk 1000 steps","41",NULL,NULL,NULL,NULL,NULL,"1000",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"434","level 25, in battle, RNG 99","42","25",NULL,NULL,NULL,NULL,"99",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"435","level 25, in battle, RNG 1","42","25",NULL,NULL,NULL,NULL,"1",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"436","Auspicious Armor","8",NULL,"Auspicious Armor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"437","Malicious Armor","8",NULL,"Malicious Armor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"438","level 38, Union Circle","43","38",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"439","level 30, night","9","30",NULL,"night",NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"440","level up with 999 Gimmighoul Coins","44",NULL,"Gimmighoul Coins",NULL,NULL,NULL,"999",NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"441","Syrupy Apple","8",NULL,"Syrupy Apple",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"442","Unremarkable Teacup","8",NULL,"Unremarkable Teacup",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"443","Masterpiece Teacup","8",NULL,"Masterpiece Teacup",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"444","Wellspring Mask","2",NULL,"Wellspring Mask",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"445","Hearthflame Mask","2",NULL,"Hearthflame Mask",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"446","Cornerstone Mask","2",NULL,"Cornerstone Mask",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"447","Terastallize","45",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"448","Metal Alloy","8",NULL,"Metal Alloy",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"449","Dragon Cheer","15",NULL,NULL,NULL,NULL,"Dragon Cheer",NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL
+"450","Tera Shift","4",NULL,NULL,NULL,"304",NULL,NULL,NULL,NULL,NULL,NULL,"0",NULL,"0",NULL

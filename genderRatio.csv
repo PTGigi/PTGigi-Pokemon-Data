@@ -1,0 +1,9 @@
+"genderRatioId","name","value"
+"1","unknown",NULL
+"2","female only","1000"
+"3","7/8 female","875"
+"4","3/4 female","750"
+"5","50/50","500"
+"6","3/4 male","250"
+"7","7/8 male","125"
+"8","male only","0"

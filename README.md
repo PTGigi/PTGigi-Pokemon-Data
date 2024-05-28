@@ -16,15 +16,11 @@ A list of all the tables and a brief explanation of what's in it. See below for 
 ## Basic Info
 If you're here for Pokemon data, 90% of what you need is in the `pkmnForm` or `pkmnSpecies` tables. These are where all the information about a Pokemon is stored. `pkmnForm` is form specific data (data that can change between forms), `pkmnSpecies` is species specific data (data that is the same for all forms of a species).
 
-The first column in all tables is a primary key with the naming scheme `tableNameId`. If referenced in another table (foreign key) it uses this name unless referenced more than once. In that case, additional clarifiers may be added. Examples:
-* in the `pkmnForm` table, the `pkmnSpeciesId` column refers to the `pkmnSpecies` table (the form's species).
-* in the `pkmnForm` table, `typeId1` and `typeId2` columns reference the `type` table (`typeId1` is the form's primary type, `typeId2` is the secondary type).
-* in the `groupMember` table, the `groupId` column is the group the member belongs to while `childGroupId` is used if the member is a group (all members of the child group are members of the parent group).
+The first column in all tables is a primary key with the naming scheme `tableNameId`. If referenced in another table (foreign key) it uses this name unless referenced more than once. In that case, additional clarifiers may be added. Example, in the `pkmnForm` table, `typeId1` and `typeId2` columns reference the `type` table (`typeId1` is the form's primary type, `typeId2` is the secondary type).
 
-If I got the data from PokeAPI, I try to keep the primary keys in line with their data. But in cases I don't, so I've added a column to track the associated PokeAPI id.
+If I got the data from PokeAPI, I try to keep the primary keys in line with their data. But in cases I don't, I've added a column to track the associated PokeAPI id.
 
-"Calculated" columns are columns where I run a script to update them. These are columns that can be derived from other columns, but are useful enough to have precalculated rather than calculate at runtime in a project.  Example:
-* `pkmnSpecies` table `stage` column can be calculated based on the `changeProcessLink` table (does this Pokemon have pre-evolutions according to that table).
+"Calculated" columns are columns where I run a script to update them. These are columns that can be derived from other columns, but are useful enough to have precalculated rather than calculate at runtime in a project.
 
 ## Table List
 
@@ -35,7 +31,7 @@ List of abilities.
 |---|---|
 |abilityId|Primary key|
 |name|Name|
-|generationId|Links to `generation` table; generation introduced|
+|generationId|Links to `generation`; generation introduced|
 
 ### biome
 List of SV biomes.
@@ -61,7 +57,7 @@ List of form change and evolution processes. This is detailed information on how
 |---|---|
 |changeProcessId|Primary key|
 |name|Name|
-|changeMethodId|Link to `changeMethod` table; the change method|
+|changeMethodId|Link to `changeMethod`; the change method|
 |level|Required level|
 |item|Required item|
 |time|Required time (time of day, duration, range)|
@@ -86,7 +82,7 @@ Links form to their evolution/new form and the process by which they change.
 |pkmnFormId|Link to `pkmnForm`; the base Pokemon form|
 |newPkmnFormId|Link to `pkmnForm`; the new Pokemon form|
 |isEvolution|If the change is an evolution or form change; 1=Evolution, 0=Form change|
-|changeProcessId|Link to `changeProcessId`; the change process used|
+|changeProcessId|Link to `changeProcess`; the change process used|
 
 ### color
 List of official PokeDex colors.
@@ -159,15 +155,15 @@ List of game generations.
 |regionId|Link to `region`, the primary region of the major core game of this generation|
 
 ### groupMember
-Links the members of a group (pkmnForm, pkmnSpecies, or group).
+Links the members of a group. Only one of `pkmnFormId`, `pkmnSpeciesId`, or `groupId` is filled out.
 
 |Column|Description|
 |---|---|
 |groupMemberId|Primary key|
-|groupId|Link to `groupId`; group this member is a part of|
-|pkmnFormId|Link to `pkmnForm`; the Pokemon form in this group|
-|pkmnSpeciesId|Link to `pkmnSpecies`; the Pokemon species in this group, shorthand for all forms of a species are in this group|
-|childGroupId|Link to `group`; the group in this group, shorthand for all members of the child group are in this group|
+|groupId|Link to `group`; the group this member is a part of|
+|pkmnFormId|Link to `pkmnForm`; member's form|
+|pkmnSpeciesId|Link to `pkmnSpecies`; member's species, shorthand for adding all forms of a species to a group|
+|childGroupId|Link to `group`; sub-group, shorthand for adding all members of another group to a group|
 
 ### groups
 List of groups.
@@ -265,8 +261,8 @@ List of Pokemon forms, specifically data that can change between a Pokemon's dif
 |pSkill|Performance Stat: Skill (Min, Base, Max)|
 |pStamina|Performance Stat: Stamina (Min, Base, Max)|
 |pJump|Performance Stat: Jump (Min, Base, Max)|
-|pokeAPIId|Link to PokeAPI's `pokemon_forms` table|
-|pokeAPIPokemonId|Link to PokeAPI's `pokemon` table|
+|pokeAPIId|Link to PokeAPI's `pokemon_forms`|
+|pokeAPIPokemonId|Link to PokeAPI's `pokemon`|
 
 ### pkmnSpecies
 List of Pokemon species, specifically data that does not change between a Pokemon's different forms.
@@ -328,7 +324,7 @@ List of types.
 |Column|Description|
 |---|---|
 |typeId|Primary key|
-|pokeAPIId|Link to PokeAPI `types` table|
+|pokeAPIId|Link to PokeAPI `types`|
 |name|Name|
 |hexColor|Official hex color|
 |isCore|If this is one of the main 18 types|

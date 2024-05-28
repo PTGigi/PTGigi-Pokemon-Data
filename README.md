@@ -1,7 +1,7 @@
 # About
 This repo contains CSVs of Pokemon data I use for my various projects on [PTGigi.com](https://ptgigi.com). Most of the data is official and from [PokeAPI](https://github.com/PokeAPI/pokeapi), then transformed to a format that makes more sense for my needs. Gaps in data are filled in using various official game data dumps or Pokemon fan sites such as Bulbapedia, Serebii, etc. Some of the data is custom (by me).
 
-In general, this repo only contains current data relevent to my projects. You're welcome to use it, though I as I base the structure on my project needs, I may adjust it without warning.
+In general, this repo only contains current data relevent to my projects. You're welcome to use it, though as I base the structure on my project needs, I may adjust it without warning.
 
 ## Contributions
 I'm happy to take contributions to this repo, just a few notes:
@@ -285,7 +285,7 @@ List of Pokemon species, specifically data that does not change between a Pokemo
 |speciesTypeId2|Link to `speciesType`; another species category because I didn't feel like making a one-to-many linking table for this|
 |habitatId|Link to `habitat`; FRLG habitat|
 |palParkAreaId|Link to `palParkArea`; HGSS/DPPt Pal Park area|
-|IQGroup|PMD:TDS IQ group|
+|IQGroup|PMD: TDS IQ group|
 |bodySize|PMD: TDS body size|
 |recruitChance1|Main PMD recruitment chance; divide by 1000 for % chance|
 |recruitChance2|Alternate PMD recruitment chance; divide by 1000 for % chance|
